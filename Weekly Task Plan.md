@@ -14,7 +14,7 @@
 
         + Spart NLP ( Natural Language Processing )
 
-    - Week 4: Sentiment Prediction ( Sentiment Analysis )
+    - Week 4 - 5: Sentiment Prediction ( Sentiment Analysis )
 
         + Visualize The Data Using Chart And Model And ...
 
